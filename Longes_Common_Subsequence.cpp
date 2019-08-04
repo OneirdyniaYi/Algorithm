@@ -38,10 +38,3 @@ string print(string A,string B){
 	return res;
 }
 
-
-//
-////
-/////
-////
-////
-/////
