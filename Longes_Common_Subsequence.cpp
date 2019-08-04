@@ -39,5 +39,3 @@ string print(string A,string B){
 }
 
 
-//士大夫艰苦是浪费了多少
-//dfsflksdfs 
