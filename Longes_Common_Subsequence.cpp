@@ -3,9 +3,9 @@ using namespace std;
 
 int dp[INT_MAX][INT_MAX];
 void init(int n,int m){
-	for(int i=0;i<m;i++)
+	for(int i=0;i<=m;i++)
 		dp[0][i] = 0;
-	for(int i=0;i<n;i++)
+	for(int i=0;i<=n;i++)
 		dp[i][0] = 0;
 } 
 int LCS(string A,string B){
